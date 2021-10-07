@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/41a9f365-2889-46c9-b7e9-82044fb66119/deploy-status)](https://app.netlify.com/sites/aqm-by-ak/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/077941ee-9fdb-4f37-b836-6208ec0f26f0/deploy-status)](https://app.netlify.com/sites/aqm-by-ak/deploys)
 
 ### Air Quality Monitoring
 
