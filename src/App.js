@@ -13,7 +13,7 @@ const App = () => {
 
     // setup web socket on mount
     useEffect(() => {
-        setWs(new WebSocket('ws://city-ws.herokuapp.com'));
+        setWs(new WebSocket('wss://city-ws.herokuapp.com'));
     }, []);
 
     useEffect(() => {
