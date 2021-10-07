@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41a9f365-2889-46c9-b7e9-82044fb66119/deploy-status)](https://app.netlify.com/sites/aqm-by-ak/deploys)
+
 ### Air Quality Monitoring
 
 Tech Challenge - Proximity Labs
